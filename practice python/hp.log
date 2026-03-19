@@ -1,0 +1,42 @@
+2026-02-02 12:48:02,942 - INFO - Program started
+2026-02-02 12:48:02,942 - DEBUG - This is a debug message
+2026-02-02 12:48:02,943 - WARNING - This is a warning
+2026-02-02 12:48:02,943 - ERROR - This is an error
+2026-02-02 12:48:05,293 - INFO - This will appear in the notebook output
+2026-02-02 12:48:07,443 - INFO - processing each element 1
+2026-02-02 12:48:07,443 - INFO - processing each element helo
+2026-02-02 12:48:07,443 - INFO - processing each element 22
+2026-02-02 12:48:07,444 - INFO - processing each element [2, 'harshit']
+2026-02-02 12:48:07,444 - INFO -  this is a sublist of i :2
+2026-02-02 12:48:07,444 - INFO -  this is a sublist of i :harshit
+2026-02-02 12:48:07,444 - INFO - processing each element 11
+2026-02-02 12:48:07,444 - INFO - processing each element 9
+2026-02-02 12:48:07,444 - INFO - processing each element [9, 'deepak']
+2026-02-02 12:48:07,444 - INFO -  this is a sublist of i :9
+2026-02-02 12:48:07,444 - INFO -  this is a sublist of i :deepak
+2026-02-02 12:49:11,482 - INFO - Starting processing of list
+2026-02-02 12:49:11,482 - INFO - Processing element: 1 (type: int)
+2026-02-02 12:49:11,482 - INFO - Integer added to l1: 1
+2026-02-02 12:49:11,482 - INFO - Processing element: helo (type: str)
+2026-02-02 12:49:11,482 - INFO - String added to l2: helo
+2026-02-02 12:49:11,482 - INFO - Processing element: 22 (type: int)
+2026-02-02 12:49:11,483 - INFO - Integer added to l1: 22
+2026-02-02 12:49:11,483 - INFO - Processing element: [2, 'harshit'] (type: list)
+2026-02-02 12:49:11,483 - INFO - Element is a list. Processing sub-elements.
+2026-02-02 12:49:11,483 - INFO - Sub-element: 2 (type: int)
+2026-02-02 12:49:11,483 - INFO - Integer added to l1: 2
+2026-02-02 12:49:11,483 - INFO - Sub-element: harshit (type: str)
+2026-02-02 12:49:11,483 - INFO - Non-integer added to l2: harshit
+2026-02-02 12:49:11,483 - INFO - Processing element: 11 (type: int)
+2026-02-02 12:49:11,483 - INFO - Integer added to l1: 11
+2026-02-02 12:49:11,483 - INFO - Processing element: 9 (type: int)
+2026-02-02 12:49:11,483 - INFO - Integer added to l1: 9
+2026-02-02 12:49:11,483 - INFO - Processing element: [9, 'deepak'] (type: list)
+2026-02-02 12:49:11,483 - INFO - Element is a list. Processing sub-elements.
+2026-02-02 12:49:11,483 - INFO - Sub-element: 9 (type: int)
+2026-02-02 12:49:11,483 - INFO - Integer added to l1: 9
+2026-02-02 12:49:11,483 - INFO - Sub-element: deepak (type: str)
+2026-02-02 12:49:11,483 - INFO - Non-integer added to l2: deepak
+2026-02-02 12:49:11,484 - INFO - Processing completed
+2026-02-02 12:49:11,484 - INFO - Final integer list (l1): [1, 22, 2, 11, 9, 9]
+2026-02-02 12:49:11,484 - INFO - Final string list (l2): ['helo', 'harshit', 'deepak']
