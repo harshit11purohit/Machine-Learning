@@ -20,3 +20,25 @@
 2026-01-08 09:43:12,894 - WARNING - Processing completed
 2026-01-08 09:43:12,894 - WARNING - Final integer list (l1): [1, 22, 2, 11, 9, 9]
 2026-01-08 09:43:12,894 - WARNING - Final string list (l2): ['helo', 'harshit', 'deepak']
+2026-03-20 21:19:41,288 - WARNING - Starting list processing at WARNING level
+2026-03-20 21:19:41,289 - WARNING - Processing element: 1 (type: int)
+2026-03-20 21:19:41,289 - WARNING - Integer added to l1: 1
+2026-03-20 21:19:41,289 - WARNING - Processing element: helo (type: str)
+2026-03-20 21:19:41,290 - WARNING - String added to l2: helo
+2026-03-20 21:19:41,290 - WARNING - Processing element: 22 (type: int)
+2026-03-20 21:19:41,290 - WARNING - Integer added to l1: 22
+2026-03-20 21:19:41,290 - WARNING - Processing element: [2, 'harshit'] (type: list)
+2026-03-20 21:19:41,290 - WARNING - Element is a list. Processing sub-elements.
+2026-03-20 21:19:41,290 - WARNING - Integer added to l1: 2
+2026-03-20 21:19:41,291 - WARNING - String added to l2: harshit
+2026-03-20 21:19:41,291 - WARNING - Processing element: 11 (type: int)
+2026-03-20 21:19:41,291 - WARNING - Integer added to l1: 11
+2026-03-20 21:19:41,291 - WARNING - Processing element: 9 (type: int)
+2026-03-20 21:19:41,291 - WARNING - Integer added to l1: 9
+2026-03-20 21:19:41,291 - WARNING - Processing element: [9, 'deepak'] (type: list)
+2026-03-20 21:19:41,291 - WARNING - Element is a list. Processing sub-elements.
+2026-03-20 21:19:41,291 - WARNING - Integer added to l1: 9
+2026-03-20 21:19:41,291 - WARNING - String added to l2: deepak
+2026-03-20 21:19:41,291 - WARNING - Processing completed
+2026-03-20 21:19:41,293 - WARNING - Final integer list (l1): [1, 22, 2, 11, 9, 9]
+2026-03-20 21:19:41,293 - WARNING - Final string list (l2): ['helo', 'harshit', 'deepak']
