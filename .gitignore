@@ -1,3 +1,4 @@
-echo PCA/catboost_info/ >> .gitignore
-echo anmoly_detection/query_anomaly_dataset.csv >> .gitignore
-echo .ipynb_checkpoints/ >> .gitignore
+PCA/catboost_info/
+anmoly_detection/query_anomaly_dataset.csv
+.ipynb_checkpoints/
+EDA-PROJECTS/
