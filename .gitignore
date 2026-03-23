@@ -2,3 +2,12 @@ PCA/catboost_info/
 anmoly_detection/query_anomaly_dataset.csv
 .ipynb_checkpoints/
 EDA-PROJECTS/
+# Ignore CatBoost logs
+**/catboost_info/
+
+# Ignore specific data files
+query_anomaly_dataset.csv
+
+# Ignore common Python/Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
