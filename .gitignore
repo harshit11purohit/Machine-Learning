@@ -11,3 +11,8 @@ query_anomaly_dataset.csv
 # Ignore common Python/Jupyter checkpoints
 .ipynb_checkpoints/
 __pycache__/
+broken.json
+data.json
+files.txt
+company_data.csv
+company_data_updated.csv
